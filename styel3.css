@@ -1,0 +1,84 @@
+body {
+    background-color: green;
+  }
+
+
+
+.m1{
+    text-align: center;
+    font-size: 60px;
+    color: cyan;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
+
+/* .mo{
+    text-align: center;
+}
+
+.m4{
+    position:fixed; right:405px; top: 200px;
+}
+
+.m5{
+    position:fixed; right: 430px; top: 260px;
+    font-size: 30px;
+    color: orange;
+} */
+
+form{
+    background-color: rgb(214, 221, 235);
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 35px;
+    margin: 10px;
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 5px;
+    position: absolute;
+    top: 45%;
+    left: 48.5%;
+    transform: translate(-50%, -50%);   
+}
+button{
+    position: absolute;
+    top: 76%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.m5{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    font-weight: 800;
+    color: white;
+}
+
+.m4{
+    width: 90px;
+    height: 70px;
+    margin-top: -15px;
+    font-size: 20px;
+    background-color: yellowgreen;
+    border: 1px solid rgb(98, 106, 175);
+    text-transform: uppercase;
+    color: white;
+    border-radius: 4px;
+}
+
+.m2{
+    width: 100%;
+    height: 70%;
+    font-size: 50px;
+   
+    text-align: center;
+    
+}
+.mo{
+    font-size: 25px;
+    font-weight: 500;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
